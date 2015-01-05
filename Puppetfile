@@ -13,3 +13,6 @@ mod 'profiles',
   :git => 'git://github.com/glarizza/puppet-profiles',
   :ref => '3611ae4253ff01762f9bda1d93620edf8f9a3b22'
 
+mod 'pe_license',
+  :git => 'git@git.internal.t-mobile.com:ias/puppet-pe_license.git',
+  :ref => '1.0.0'
